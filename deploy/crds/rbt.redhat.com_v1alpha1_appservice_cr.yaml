@@ -1,7 +1,0 @@
-apiVersion: rbt.redhat.com/v1alpha1
-kind: AppService
-metadata:
-  name: example-appservice
-spec:
-  # Add fields here
-  size: 3
