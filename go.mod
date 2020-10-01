@@ -1,4 +1,4 @@
-module github.com/ravitri/rbt-operator/rbt-operator
+module github.com/ravitri/rbt-operator
 
 go 1.13
 

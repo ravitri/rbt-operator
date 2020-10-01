@@ -13,9 +13,9 @@ import (
 	_ "k8s.io/client-go/plugin/pkg/client/auth"
 	"k8s.io/client-go/rest"
 
-	"github.com/ravitri/rbt-operator/rbt-operator/pkg/apis"
-	"github.com/ravitri/rbt-operator/rbt-operator/pkg/controller"
-	"github.com/ravitri/rbt-operator/rbt-operator/version"
+	"github.com/ravitri/rbt-operator/pkg/apis"
+	"github.com/ravitri/rbt-operator/pkg/controller"
+	"github.com/ravitri/rbt-operator/version"
 
 	"github.com/operator-framework/operator-sdk/pkg/k8sutil"
 	kubemetrics "github.com/operator-framework/operator-sdk/pkg/kube-metrics"
