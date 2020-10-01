@@ -1,1 +1,0 @@
-# Sample Operator rbt-operator
