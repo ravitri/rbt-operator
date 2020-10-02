@@ -1,0 +1,7 @@
+apiVersion: rbt.example.com/v1alpha1
+kind: Appservice
+metadata:
+  name: example-appservice
+spec:
+  # Add fields here
+  size: 3
